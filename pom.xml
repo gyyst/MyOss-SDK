@@ -8,7 +8,7 @@
         <version>2.7.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github.gyyst.MyOss-SDK</groupId>
+    <groupId>io.github.gyyst</groupId>
     <artifactId>MyOss-SDK</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>MyOss-SDK</name>
