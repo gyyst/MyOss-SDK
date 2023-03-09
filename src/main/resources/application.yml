@@ -1,8 +1,1 @@
-spring:
-  cloud:
-    gateway:
-      routes:
-        - id: path_route
-          uri: https://127.0.0.1:7529
-          predicates:
-            - Path=/api/**
+
